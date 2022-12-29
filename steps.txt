@@ -1,0 +1,14 @@
+1- sorting the cards randomly everytime the game start.
+
+2 - the button are disabled until the player press on start start_button
+
+3 -  the timer starts after pressing the start button
+
+4 - looping throuw the flipped card by the user to check if it matchs or not
+
+5 - update the wrong try and flipp the card back if it doesnt match otherwise leave it open
+
+
+6- general timer to close the game when the time finish
+
+
