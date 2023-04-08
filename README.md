@@ -11,3 +11,5 @@ I created a Memory Game as a personal project to improve my skills in JavaScript
 ## Demo:
 Want to test your memory and give it a try ?
 Online Deployment of this project is available at:    [Digital-Bazzar](https://tarek666666.github.io/Memory-Game/) <br>
+
+![Screenshot of DigitalBazzar homepage](https://github.com/Tarek666666/Memory-Game/blob/main/images/screencapture-tarek666666-github-io-Memory-Game-2023-04-08-04_13_43.png)
